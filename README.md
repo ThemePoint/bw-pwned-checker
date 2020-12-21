@@ -1,4 +1,4 @@
-Bitwarden Check
+Bitwarden Pwned Checker
 ===
 
 This NodeJS script can be used to check the passwords from your Bitwarden-Tresor by using the bitwarden cli
